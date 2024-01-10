@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCodeFirst.Reminder", "EFCodeFirst.Reminder\EFCodeFirst.Reminder.csproj", "{94BC9292-C17D-485B-9C15-BF819DCF7A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94BC9292-C17D-485B-9C15-BF819DCF7A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BC9292-C17D-485B-9C15-BF819DCF7A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BC9292-C17D-485B-9C15-BF819DCF7A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BC9292-C17D-485B-9C15-BF819DCF7A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1290F0E-76C3-4624-8843-C457F228A211}
+	EndGlobalSection
+EndGlobal
